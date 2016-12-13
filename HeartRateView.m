@@ -1,9 +1,7 @@
 //
 //  HeartRateView.m
-//  EdooonGPS
 //
 //  Created by Jack on 16/5/26.
-//  Copyright © 2016年 edooon team. All rights reserved.
 //
 
 #import "HeartRateView.h"
