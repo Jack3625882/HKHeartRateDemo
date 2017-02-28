@@ -1,0 +1,2 @@
+# HKHeartRateDemo
+调用healthkit读取健康中心率的demo，可以仿照此demo读取其它相关运动数据
